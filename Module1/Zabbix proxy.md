@@ -45,6 +45,7 @@ nano /etc/zabbix/zabbix_proxy.conf
 Server=    ваш ip adresss\
 Hostname=  такой же нужно будет прописать на основном сервере\
 DBName= /tmp/zabbix_proxy\
+TLSAccept=psk
 TLSConnect=psk\
 TLSPSKFile=/etc/zabbix/zabbix_proxy.psk\
 TLSPSKIdentity=test  - тут меняйте значение на свое - такое же должно использоваться на серверной части\
