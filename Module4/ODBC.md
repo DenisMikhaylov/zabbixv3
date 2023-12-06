@@ -14,7 +14,10 @@ odbcinst -j
 ```
 nano /etc/odbcinst.ini
 ```
+
+Проверяем что есть  нужные библиотеки в настройках
 ```
+
 [mysql]
 Description = ODBC for MySQL
 Driver      = /usr/lib/libmyodbc5.so
