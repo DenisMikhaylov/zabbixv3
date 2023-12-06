@@ -45,6 +45,7 @@ PARTITION p2021_03 VALUES LESS THAN (UNIX_TIMESTAMP("2021-04-01 00:00:00")) ENGI
 Вариант сверзу для примера и требует постоянного исправление дат
 
 есть вариант более прогрессивынй при помощи скриптов perl
+
 [Инструкция по настройке] (https://blog.zabbix.com/partitioning-a-zabbix-mysql-database-with-perl-or-stored-procedures/13531/)
 
 
