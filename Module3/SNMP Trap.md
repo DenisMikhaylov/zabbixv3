@@ -1,9 +1,9 @@
 Статьи
-[Настройка Zabbix SNMP traps](http://va0816.blogspot.com/2013/06/zabbix-snmp-traps.html)
-```
 
-https://www.zabbix.com/documentation/3.0/ru/manual/config/items/itemtypes/snmptrap
-```
+
+[Настройка Zabbix SNMP traps](http://va0816.blogspot.com/2013/06/zabbix-snmp-traps.html)
+
+[Zabbix Documentation SNMP трапы](https://www.zabbix.com/documentation/3.0/ru/manual/config/items/itemtypes/snmptrap)
 
 
 Установка компонентов на сервер 
